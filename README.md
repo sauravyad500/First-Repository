@@ -1,3 +1,3 @@
 # First-Repository
 This is my first repository on GitHub.
-I commit this change.
+I committed this change.
